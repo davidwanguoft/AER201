@@ -1,5 +1,5 @@
 ;*******************************************************************
-; Property of El Muffin Stuffer
+; Property of El Muffin Stuffer (Bethany Kon, Aaron Pan, David Wang)
 ; Version: 1.0
 ; Written By : Bethany Kon
 ;*******************************************************************
